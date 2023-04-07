@@ -1,1 +1,3 @@
-Este es un nuevo archivo para comenzar la historia con git
+Es esta la historia de Victor Urbina.
+
+Soy originario de Mexico, y tengo 26 años.
